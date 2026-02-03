@@ -1,4 +1,4 @@
-# 🦞 Moltbot — Personal AI Assistant
+# 🦞 Moltbot — HENU OS PRIVATE Limited
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/moltbot/moltbot/main/docs/whatsapp-clawd.jpg" alt="Clawdbot" width="400">
